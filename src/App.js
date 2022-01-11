@@ -8,6 +8,8 @@ function App() {
   return (
     <div className="App">
       
+      <ToDo/>
+      <List/>
 
       <PersonCard lastName = {"Valladares"} firstName = { "Pedro"} age = {28} hColor = "Black"/>
       
