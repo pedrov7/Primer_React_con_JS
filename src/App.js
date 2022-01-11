@@ -7,8 +7,7 @@ import PersonCard from './components/PersonCard'
 function App() {
   return (
     <div className="App">
-      {/* <ToDo/>    
-      <List/> */}
+      
 
       <PersonCard lastName = {"Valladares"} firstName = { "Pedro"} age = {28} hColor = "Black"/>
       
@@ -16,7 +15,7 @@ function App() {
       
       <PersonCard lastName = {"Romero"} firstName = { "Mariana"} age = {57} hColor = "Black and White"/>
       
-      <PersonCard lastName = {"Mader"} firstName = { "Mateo"} age = {19} hColor = "Brown"/>
+      <PersonCard lastName = {"Mader"} firstName = { "Mateo"} age = {19} hColor = "Browngit stat"/>
       
 
     

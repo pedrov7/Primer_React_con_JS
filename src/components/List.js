@@ -1,7 +1,7 @@
 import { Component } from "react";
 
 class List extends Component {
-    render() {
+    render(){
         return (
             <>
                 <h3>Things I need to do:</h3>
